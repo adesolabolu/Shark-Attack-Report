@@ -94,7 +94,18 @@ in
 
 ### Results/Findings
 The analysis results are summarized as follows;
-1. Total number of attacks were identified to be 4,586
-2. Total number of fatal attacks were identified to be 1,096
-3. The highest number of attacks were in the afternoon at a total of 1,305
-4. USA had the highest number of attacks at a total of 1,941
+1. Total number of attacks were identified to be 4,586.
+2. Total number of fatal attacks were identified to be 1,096.
+3. A significant 1,305 shark attacks occurred in the afternoon, surpassing other times of day.
+4. The United States contributed the most to global shark attack statistics, with a total of 1,941.
+5. Unsurprisingly, New Smyrna Beach in Volusia County, known as the 'shark bite capital,' had the most attacks, at 162.
+6. Florida emerged as the location with the most shark attacks, totaling 953.
+7. White sharks were responsible for the most attacks, totaling 577.
+8. Shark attacks peaked in 2015, with a total of 140 incidents.
+9. The leg was the body part most frequently injured, with a total of 1,319 cases.
+10. Unprovoked incidents were the leading cause of shark attacks, totaling 3,629.
+
+### Limitations
+- Shark attack data may not be reported consistently or accurately worldwide. This could be due to factors like limited resources, fear of negative impacts on tourism, or lack of awareness.
+- Obtaining reliable historical data on shark attacks can be challenging due to limited record-keeping practices in the past.
+- Relying solely on one data source (e.g., a specific organization) might not capture the full picture.
